@@ -17,8 +17,8 @@ Bot ini ngebantu kamu buat generate banyak wallet EVM (Ethereum Virtual Machine)
 
 1. **Clone repo-nya**
 ```bash
-git clone https://github.com/kamu/bot-bulk-wallet-evm.git
-cd bot-bulk-wallet-evm
+git clone https://github.com/dwifahrisal/walletmaker-ethereum.git
+cd walletmaker-ethereum
 ```
 
 
